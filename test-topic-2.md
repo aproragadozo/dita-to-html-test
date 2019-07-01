@@ -11,3 +11,9 @@ We have a table with images for this one.
 When you're done, [go back to the other topic](test-topic-1.md).
 
 Or you could press on, and head over to [the database topic](test-topic-3-database.md).
+
+---
+
+[Back to index](http://dtce-jenkins.duckdns.org:8080/).
+
+---
