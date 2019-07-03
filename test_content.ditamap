@@ -5,5 +5,5 @@
     <topicref navtitle="Test Topic the First" id="t-t-1" format="markdown" href="test-topic-1.md"/>
     <topicref href="test-topic-3-database.md" format="markdown"/>
     <topicref format="mdita" navtitle="Test Topic the Second" href="test-topic-2.md" id="t-t-2"/>
-    <topicref format="markdown" navtitle="Test Topic the Fourth" href="test-topic-4.md" id="t-t-4"/>
+    <topicref format="mdita" navtitle="Test Topic the Fourth" href="text-topic-4.md" id="t-t-4"/>
 </map>
