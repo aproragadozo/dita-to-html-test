@@ -23,7 +23,7 @@ So there.
 
 This one has a code sample.
 
-```javascript
+```javascript {.codeblock}
 function adder(adj) {
    console.error(`I have a ${adj} plan.`)
 }
